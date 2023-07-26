@@ -1,12 +1,10 @@
 # MERN_Assignments
 
-Day-1: Types of variables in JavaScript, functions, NaN, typeof Code-
-
-
+Day-1:
 -> Prime Number , ArmStrong Number , add() for various types of arguments
 
-
-Day-2: Objects in JavaScript, ways to access the data in objects Code-
-
+Day-2: 
 -> add() using Rest arguments , Current Day and Time , Current Date in different formats
 
+Day-3 :
+-> Different types of functions 
