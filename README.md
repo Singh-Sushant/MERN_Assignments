@@ -7,4 +7,4 @@ Day-2:
 -> add() using Rest arguments , Current Day and Time , Current Date in different formats
 
 Day-3 :
--> Different types of functions 
+-> Different types of functions , functions for day , time and date using these functions
